@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>测试页面</title>
+    <link href="/2024/07/26/test/"/>
+    <url>/2024/07/26/test/</url>
+    
+    <content type="html"><![CDATA[<h1 id="这是一个测试页面"><a href="#这是一个测试页面" class="headerlink" title="这是一个测试页面"></a>这是一个测试页面</h1>]]></content>
+    
+    
+    <categories>
+      
+      <category>测试</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>volta安装及使用</title>
     <link href="/2024/07/26/volta%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8/"/>
     <url>/2024/07/26/volta%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8/</url>
